@@ -7,6 +7,10 @@ public class Employee {
 		System.out.println("Emp name : Frank");
 		int a = 10;
 		System.out.println(a);
+		int b=20;
+		int c;
+		c = a + b;
+		System.out.println(c);
 
 	}
 }
