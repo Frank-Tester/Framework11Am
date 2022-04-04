@@ -11,6 +11,10 @@ public class Employee {
 		int c;
 		c = a + b;
 		System.out.println(c);
+		for (int i = 0; i < 5; i++) {
+			c=0+i;
+			System.out.println(c);
+		}
 
 	}
 }
